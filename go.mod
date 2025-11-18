@@ -1,4 +1,4 @@
-module github.com/skilld-labs/plasmactl-processors
+module github.com/plasmash/plasmactl-processors
 
 go 1.25.0
 
